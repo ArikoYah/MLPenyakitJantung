@@ -15,7 +15,7 @@ import numpy as np
 pip install streamlit
 
 pip install -r requirements.txt
-streamlit run stream_jantung.py
+
 
 import streamlit as st
 
