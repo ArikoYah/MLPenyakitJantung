@@ -4,3 +4,4 @@ streamlit
 pip
 scikit-learn
 sklearn
+pip install --upgrade streamlit
